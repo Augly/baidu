@@ -57,9 +57,9 @@
         </view>
     </view>
 </view>
-<view class='main searpro' bindtap='appid_tz'>
+<!-- <view class='main searpro' bindtap='appid_tz'>
     <image src='../images/searchproblem.png'></image>
-</view>
+</view> -->
 <view class='main searpro'>
     <view class='btit'>高顿ACCA优选课程</view>
     

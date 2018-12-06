@@ -6,5 +6,5 @@
 	</view>
 </view>
 <view class>
-	<video src="http://video1-cdn.gaodun.com/pub/28egsW3M311k7xRw/LD.mp4" autoplay binderror="videoErrorCallback"></video>
+	<video src="http://video1-cdn.gaodun.com/pub/2b4dvd0o3203sj5a/LD.mp4" autoplay binderror="videoErrorCallback"></video>
 </view>
