@@ -43,7 +43,7 @@ Page({
       return false
     }
     swan.request({
-      url: 'https://fapiao.gaodun.com/api/acca/email',
+      url: 'https://fapiao.gaodun.com/api/batacca/email',
       method: 'POST',
       data: {
         phone: d.phone,

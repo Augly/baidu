@@ -60,7 +60,7 @@ Page({
     let that = this
     console.log(d.name)
     swan.request({
-      url: 'https://fapiao.gaodun.com/api/batacca/select',
+      url: 'https://fapiao.gaodun.com/api/batacca/assess',
       method: 'POST',
       data: {
         phone: d.phone,
