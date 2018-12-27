@@ -98,3 +98,17 @@ padding:5px;
   height: 40px;
   line-height: 40px
 }
+.label{
+  width: 25%;
+  float: left;
+  font-size: 30rpx;
+  line-height:40px;
+}
+.exter{
+  width: 75%;
+  float: left;
+  font-size: 30rpx;
+}
+.exter input{
+	height:40px;
+}
